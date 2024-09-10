@@ -1,0 +1,12 @@
+datasets
+sentence_transformers
+langchain
+langchain_core
+langchain_openai
+faiss-cpu
+numpy
+tqdm
+colorama
+python-docx
+python-dotenv
+flask
